@@ -21,7 +21,7 @@
   </categories>
   <url type="homepage">https://www.wonderdraft.net/</url>
   <launchable type="desktop-id">net.wonderdraft.Wonderdraft.desktop</launchable>
-  <developer id="@metasploot@mastodon.social">
+  <developer id="@megasploot.bsky.social">
     <name>Metasploot</name>
   </developer>
   <update_contact>guillaumepoiriermorency@gmail.com</update_contact>
