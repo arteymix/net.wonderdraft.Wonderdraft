@@ -30,6 +30,12 @@
       <description></description>
     </release>
   </releases>
+  <screenshots>
+      <screenshot type="default">
+      <image>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAAK6dNoOdeZ08-v40NQhyaZ4op5Tbs3sPl8ZNZxWkH-VBJ3zIrR2Jfr3alVnYqwfsRG7nbs26OSu7DjaVQRMwDWwBhJrgp6BmDilw-YX-8LtPBvVrEU6FYXYTL3ae1vsQJ6J1jIkay45j/s1600/featured-image.jpg</image>
+      <caption>Wonderdraft screenshot</caption>
+      </screenshot>
+  </screenshots>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">none</content_attribute>
     <content_attribute id="violence-fantasy">none</content_attribute>
