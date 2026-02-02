@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/vnd.wonderdraft.map">
+        <comment>Wonderdraft map</comment>
+        <comment xml:lang="fr">Carte Wonderdraft</comment>
+        <glob pattern="*.wonderdraft_map"/>
+    </mime-type>
+</mime-info>
