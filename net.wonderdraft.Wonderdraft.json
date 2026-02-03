@@ -37,7 +37,7 @@
                 "cp -R . /app/share/wonderdraft",
                 "chmod +x /app/share/wonderdraft/Wonderdraft.x86_64",
                 "ln -s /app/share/wonderdraft/Wonderdraft.x86_64 /app/bin/wonderdraft",
-                "desktop-file-install --set-key Exec --set-value 'wonderdraft %f' --set-icon ${FLATPAK_ID} --set-key MimeType --set-value 'application/vnd.wonderdraft.map;' --remove-key Path --remove-key Version --dir /app/share/applications Wonderdraft.desktop",
+                "desktop-file-install --set-key Exec --set-value 'wonderdraft %f' --set-icon ${FLATPAK_ID} --set-key MimeType --set-value 'application/vnd.wonderdraft.map;' --remove-key Path --set-key Version --set-value 1.5 --dir /app/share/applications Wonderdraft.desktop",
                 "install -Dm644 ${FLATPAK_ID}.appdata.xml /app/share/appdata/${FLATPAK_ID}.appdata.xml",
                 "install -Dm644 Wonderdraft.png /app/share/icons/hicolor/128x128/apps/${FLATPAK_ID}.png",
                 "install -Dm644 net.wonderdraft.Wonderdraft.mime.xml /app/share/mime/packages/${FLATPAK_ID}.xml"
